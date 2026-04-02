@@ -1,0 +1,13 @@
+{
+    "name": "ANC Player Pro",
+    "slug": "anc-player-pro",
+    "version": "2.1",
+    "author": "SOKY",
+    "download_url": "Link_ZIP_ដែលបាន_Copy_ពីកន្លែង_Release_មុននេះ",
+    "requires": "5.0",
+    "tested": "6.4",
+    "sections": {
+        "description": "ANC Player Pro ជាកម្មវិធីចាក់វីដេអូកម្រិតខ្ពស់...",
+        "changelog": "<h4>កំណែ 2.1</h4><ul><li>បន្ថែមមុខងារ Update តាម GitHub</li></ul>"
+    }
+}
